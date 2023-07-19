@@ -19,8 +19,8 @@ Below is the overview of a landing page I created feel free to give any suggesti
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/Kingsxn/Huddle-Landing-Page.git)
+- Live Site URL: [live site URL](https://kingsxn.github.io/Huddle-Landing-Page/)
 
 ### Built with
 
